@@ -5,5 +5,8 @@ Currently learning
 Python and C.
 
 Things I've built
-AI-image-detector - my first project that wasn't homework
-Energ u
+AI image detector
+
+Reach me
+LinkedIn: www.linkedin.com/in/mateogao
+
